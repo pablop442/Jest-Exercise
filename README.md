@@ -4,23 +4,32 @@
 
 1) In this exercise we use the Jest library to build a program capable of converting numeric values from one currency to another.
 2) It is an exercise made for academic purposes as a part of 4Geeks Academy coding bootcamp. 
+3) If you want to check my answers just open the  ```app.js``` and the  ```test.js``` files. 
+4) Feel free to contribute. 
 
-### Installation
+### Do it yourself: Installation
 
-1) Get into the exercise folder: 
+For this exercise you have two options to install it:
+
+1) Use gitpod: open this link in your browser to clone it with gitpod: 
+https://gitpod.io#https://github.com/breatheco-de/exercise-unit-test-with-jest.git
+
+2)  You can clone this repository on your local computer and follow these steps:
+
+a) Get into the exercise folder: 
 ```
 $ cd exercise-unit-test-with-jest
 ```
 
-2) Download learnpack globally (if you don't have it already):
+b) Download learnpack globally (if you don't have it already):
 
 ```
 $ npm i learnpack -g
 ```
-3) Start the exercise:
+c) Start the exercise:
 
 ```
 $ learnpack start
 ```
 
-4) Follow the instructions.
+d) Follow the instructions.
